@@ -1,0 +1,10 @@
+Pedro Gonzalez,20
+Ana Lopez,39
+Ana Gonzalez,18
+Laura Diaz,45
+Laura Lopez,80
+Carlos Diaz,37
+Luis Fernandez,97
+Luis Lopez,45
+Pedro Gomez,53
+Laura Diaz,40

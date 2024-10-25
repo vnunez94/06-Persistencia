@@ -1,0 +1,14 @@
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\06-Persistencia\Archivo01\bin\Debug\net6.0\Archivo01.exe
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\06-Persistencia\Archivo01\bin\Debug\net6.0\Archivo01.deps.json
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\06-Persistencia\Archivo01\bin\Debug\net6.0\Archivo01.runtimeconfig.json
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\06-Persistencia\Archivo01\bin\Debug\net6.0\Archivo01.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\06-Persistencia\Archivo01\bin\Debug\net6.0\Archivo01.pdb
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\06-Persistencia\Archivo01\obj\Debug\net6.0\Archivo01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\06-Persistencia\Archivo01\obj\Debug\net6.0\Archivo01.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\06-Persistencia\Archivo01\obj\Debug\net6.0\Archivo01.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\06-Persistencia\Archivo01\obj\Debug\net6.0\Archivo01.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\06-Persistencia\Archivo01\obj\Debug\net6.0\Archivo01.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\06-Persistencia\Archivo01\obj\Debug\net6.0\refint\Archivo01.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\06-Persistencia\Archivo01\obj\Debug\net6.0\Archivo01.pdb
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\06-Persistencia\Archivo01\obj\Debug\net6.0\Archivo01.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\06-Persistencia\Archivo01\obj\Debug\net6.0\ref\Archivo01.dll

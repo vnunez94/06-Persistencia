@@ -1,0 +1,4 @@
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\06-Persistencia\sqllite00\obj\Debug\net8.0\sqllite00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\06-Persistencia\sqllite00\obj\Debug\net8.0\sqllite00.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\06-Persistencia\sqllite00\obj\Debug\net8.0\sqllite00.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\06-Persistencia\sqllite00\obj\Debug\net8.0\sqllite00.csproj.CoreCompileInputs.cache

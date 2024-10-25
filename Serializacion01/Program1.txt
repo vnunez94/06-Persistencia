@@ -1,0 +1,51 @@
+﻿using System;
+using System.IO;
+using System.Text.Json;
+
+public class Person
+{
+    public string Name { get; set; }
+    public int Age { get; set; }
+}
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        // Person person = new Person { Name = "Ramon Gonzalez", Age = 30 };
+        // string filePath = "person.json";
+
+        // Serialización
+        // SerializeObjectToFile(person, filePath);
+
+        // Deserialización
+        // Person deserializedPerson = DeserializeObjectFromFile<Person>(filePath);
+
+        //Console.WriteLine($"Nombre: {deserializedPerson.Name}, Edad: {deserializedPerson.Age}");
+
+         string path = "personas.json";
+        //List<Person> list = new List<Person>() { new Person() {Age=21, Name="Solenny"}, new Person() {Age=21, Name="Solenny"}, new Person() {Age=24, Name="Yeison"}, new Person() {Age=23, Name="Carlos"}};
+        //string json=JsonSerializer.Serialize(list);
+        //File.WriteAllText(path, json);
+        string? json2=File.ReadAllText(path);
+        var lista=JsonSerializer.Deserialize<Person[]>(json2);
+        foreach(var p in lista)
+        {
+            Console.WriteLine(p.Name);
+            Console.WriteLine(p.Age);
+        }
+
+    }
+
+    public static void SerializeObjectToFile(object obj, string filePath)
+    {
+        string jsonString = JsonSerializer.Serialize(obj);
+        File.WriteAllText(filePath, jsonString);
+    }
+
+    public static T? DeserializeObjectFromFile<T>(string filePath)
+    {
+        string? jsonString = File.ReadAllText(filePath);
+        return JsonSerializer.Deserialize<T>(jsonString);
+    }
+}
